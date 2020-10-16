@@ -2,7 +2,6 @@
 
 Demoes embedding of [Javalin](https://javalin.io/) into the Tomcat servlet
 container, without having to have Jetty on classpath.
-See https://github.com/tipsy/javalin/issues/402 for more details.
 
 To run the demo, just open your terminal and type:
 
